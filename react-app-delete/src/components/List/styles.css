@@ -1,0 +1,12 @@
+.List:hove {
+  transform: scale(1.1);
+}
+
+.List h2 {
+  font-size: 1rem;
+  text-align: right;
+}
+
+.List img {
+  margin-right: 2rem;
+}
