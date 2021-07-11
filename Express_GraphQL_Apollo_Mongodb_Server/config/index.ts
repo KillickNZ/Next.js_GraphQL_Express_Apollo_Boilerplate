@@ -1,6 +1,6 @@
 /**
  * Config file
- * @author Sebastian Chapman <sebastia.g.chapman@gmail.com>
+ * @author Anurag Garg <garganurag893@gmail.com>
  */
 
 import dotenv from 'dotenv';
